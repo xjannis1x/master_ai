@@ -1,0 +1,8 @@
+Temperaturen der KW32
+Mo,18.5
+Di,21.3
+Mi,32.0
+Do,17.9
+Fr,25.0
+Sa,27.0
+So,16.1

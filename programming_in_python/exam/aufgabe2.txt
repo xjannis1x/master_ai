@@ -1,0 +1,23 @@
+Geben Sie die Lösung als Python-Quelldatei .py oder als Jupyter Notebook .ipynb bis zum  17. November 2025, 23:59 Uhr ab.
+
+Aufgabe 2
+
+Alfredo - stolzer Besitzer der Pizzeria Bella Capri - möchte seine Prozesse verbessern. Zum Beispiel:
+
+ 1. möchte er abschätzen können, wie viele Pizzas, wie viel frischen Salat und wie viele Nudeln er pro Tag benötigt. 
+ 2. Desweiteren möchte er gerne abschätzen, was er an verschiedenen Getränken besorgen muss.
+ 3. Da die Zahl der täglichen Gäste vermutlich schwer genau vorherzusagen ist überlegt er, ob es wohl einen (linearen) Zusammenhang 
+    zwischen den Vorab-Reservierungen und der Gesamtzahl der Gäste pro Tag gibt, so dass er Anhand der Reservierungen eine Vorhersage 
+    über die zu erwartende Gesamtzahl der Gäste treffen kann.
+ 4. Außerdem möchte er entscheiden, an welchem Tag er zukünftig Ruhetag machen soll.
+
+Dazu erstellt er über einen Monat hinweg die Tabelle "BellaCapri.xlsx" und hofft dass er einen Datenanalysten findet, der ihm seine 
+Fragen mit Hilfe eines Computerprogramms beantworten kann.
+
+Können Sie Alfredo helfen und ihm ein paar nützliche Analysen und Graphiken mit Hilfe von Pandas, NumPy und Matplotlib erstellen?
+
+Hinweis: die Aufgabe lässt Gestaltungsspielraum. Ich bin gespannt auf ihre individuellen Lösungen.
+
+Quelldatei:
+
+BellaCapri.xlsx

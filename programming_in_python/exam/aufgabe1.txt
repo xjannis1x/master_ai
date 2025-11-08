@@ -1,0 +1,18 @@
+Geben Sie die Loesung als Python-Quelldatei .py oder als Jupyter Notebook .ipynb bis zum 17. November 2025, 23:59 Uhr ab.
+
+
+Aufgabe 1
+
+Schreiben Sie unter Verwendung von Listen ein Programm welches Lotto 6 aus 49 spielt. Anforderungen:
+
+ 1. Der Benutzer soll einen Lotto-Tipp abgeben: 6 Zahlen zwischen 1 und 49 sollen ueber die Konsole nacheinander eingegeben werden.
+ 2. das Programm soll dann 6 Zahlen aus den Zahlen 1 bis 49 "ziehen". Beachten Sie, dass gezogene Zahlen nicht mehrfach vorkommen duerfen!
+ 3. Die Zahlen sollen waehrend der Ziehung in der Reihenfolge des Ziehens ausgegeben werden
+ 4. Nach der Ziehung sollen die gezogenen Zahlen zusaetzlich sortiert in aufsteigender Reihenfolge ausgegeben werden.
+ 5. Das Programm soll berechnen wie viele Richtige der Benutzer getippt hat und dies ausgeben.
+ 6. Bonusaufgabe: die richtig getippten Zahlen sollen sowohl waehrend der Ziehung als auch bei der sortiert ausgegebenen Ziehung farbig markiert werden
+
+Hinweise:
+
+ 1. Schreiben Sie ein gut strukturiertes und benutzerfreundliches Programm und denken Sie auch an moegliche Fehler!
+ 2. Die Module NumPy und Pandas duerfen nicht verwendet werden.
