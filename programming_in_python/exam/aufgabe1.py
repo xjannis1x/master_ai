@@ -522,8 +522,9 @@ class PrettyPrint():
         print("")
 
 
-# execute the game
-# game = Lotto6Of49() # without image
-game = Lotto6Of49(lotto_machine=LOTTO_MACHINE) # with image
-game.play() #start game
+# only start game when file is directly executed
+if __name__ == "__main__":
+    # game = Lotto6Of49() # without image
+    game = Lotto6Of49(lotto_machine=LOTTO_MACHINE) # with image
+    game.play() #start game
     
